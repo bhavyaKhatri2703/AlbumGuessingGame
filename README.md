@@ -1,6 +1,6 @@
 # Guess The Album Game
 
-This is a game where you have to guess the album name by the pixelated cover shown.
+guess the album name by the pixelated cover shown.
 
 
 
